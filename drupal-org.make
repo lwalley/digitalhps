@@ -5,6 +5,7 @@ core = 7.x
 
 ; Themes
 projects[bluemasters][version] = 1.3
+projects[corporate][version] = 1.5
 
 ; Contributed modules
 projects[ctools][version] = 1.2
