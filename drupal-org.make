@@ -14,3 +14,4 @@ projects[subform][version] = 1.0-alpha2
 projects[relation][version] = 1.0-rc3
 projects[relation_edit][version] = 1.0
 projects[relation_select][version] = 1.x-dev
+projects[nice_menus][version] = 2.1
